@@ -10,5 +10,4 @@ Given that we have data on former employees, this is a standard **supervised cla
 
 In this case study, a HR dataset was sourced from [IBM HR Analytics Employee Attrition & Performance](https://www.ibm.com/communities/analytics/watson-analytics-blog/hr-employee-attrition/) which contains employee data for 1,470 employees with various information about the employees. I will use this dataset to predict when employees are going to quit by understanding the main drivers of employee churn. <br>
 
-> As stated on the [IBM website](https://www.ibm.com/communities/analytics/watson-analytics-blog/hr-employee-attrition/) *"This is a fictional data set created by IBM data scientists"*. <br>
-Its main purpose was to demonstrate the IBM Watson Analytics tool for employee attrition.
+As stated on the [IBM website](https://www.ibm.com/communities/analytics/watson-analytics-blog/hr-employee-attrition/) *"This is a fictional data set created by IBM data scientists"*. Its main purpose was to demonstrate the IBM Watson Analytics tool for employee attrition.
